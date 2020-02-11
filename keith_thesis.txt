@@ -2,3 +2,5 @@ Continue working on one device where you left off on another. You can use Handof
 
 While playing audio from Music, Podcasts, or another audio app, bring iPhone close to HomePod.
 iPhone and HomePod must be in the same HomeKit home and on the same Wi-Fi network to hand off audio from one device to the other.
+
+Here is another change
